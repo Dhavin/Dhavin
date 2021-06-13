@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Freelance Agency**
 
-- 🌱 I’m currently learning **Typescript, DevOps, React Native**
+- 🌱 I’m currently learning **Typescript, Blockchain, React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dhavin](https://github.com/Dhavin)
 
