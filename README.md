@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dhavin0809@gmail.com**
 
-- ⚡ Fun fact **I hate AI/ML**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
